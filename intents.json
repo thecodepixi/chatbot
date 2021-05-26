@@ -19,7 +19,7 @@
     },
     {
       "tag": "goodbye",
-      "patterns": ["Bye", "See you later", "Goodbye"],
+      "patterns": ["Bye", "See you later", "Goodbye", "see you around", "ok, bye"],
       "responses": [
         "See you later, thanks for visiting",
         "Have a nice day",
@@ -78,6 +78,25 @@
       "responses": [
         "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
         "What did the buffalo say when his son left for college? Bison."
+      ]
+    },
+    {
+      "tag": "rude",
+      "patterns": [
+        "You suck",
+        "I hate you",
+        "asshole",
+        "bitch",
+        "fuck you",
+        "you're terrible",
+        "I hate your products",
+        "Your coffee is bad",
+        "You tea is disgusting"
+      ],
+      "responses": [
+        "Well, that was rude.",
+        "That's unnecessary",
+        "Fuck you, too!"
       ]
     }
   ]
