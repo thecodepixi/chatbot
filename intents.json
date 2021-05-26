@@ -98,6 +98,20 @@
         "That's unnecessary",
         "Fuck you, too!"
       ]
+    }, {
+      "tag": "praise",
+      "patterns": [
+        "I love your products",
+        "I think you're awesome",
+        "You coffee tastes great",
+        "Your tea is incredible",
+        "The things I bought are fantastic"
+      ], 
+      "responses": [
+        "Thank you so much!",
+        "We really appreciate that!",
+        "That's so good to hear!"
+      ]
     }
   ]
 }
